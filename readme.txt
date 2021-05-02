@@ -7,3 +7,4 @@ first add
 
 second add
 
+my stupid boss still prefers svn
